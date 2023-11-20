@@ -53,10 +53,10 @@
 
 
 ## Output:
+![Screenshot 2023-11-20 075904](https://github.com/KSIHORE/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/151484879/99884cd3-2150-4c40-871c-3ae97c150400)
 
-
-### Name:
-### Register Number: 
+### Name: KISHORE.B
+### Register Number: 212222110020
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
